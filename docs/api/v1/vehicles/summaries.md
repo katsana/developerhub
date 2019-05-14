@@ -47,7 +47,7 @@ curl --request GET \
 }
 ```
 
-## Yesterday {#yesterday}
+## Yesterday
 
 ### API Endpoint
 
@@ -89,7 +89,7 @@ curl --request GET \
 }
 ```
 
-## Date {#date}
+## Date
 
 ### API Endpoint
 
