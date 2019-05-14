@@ -1,5 +1,6 @@
 ---
 title: Getting Started
+actionText: Download
 ---
 
 # Getting Started
@@ -48,7 +49,7 @@ All KATSANA API endpoint would return JSON as our output format.
 
 Rate Limiting (throttling) allows you to limit the number of requests a client can make in a given amount of time. A limit and the expiration time is defined by a throttle.
 
-### Data Format
+## Data Format
 
 | Type          | Format                            | Example
 |:--------------|:----------------------------------|:---------
@@ -62,39 +63,39 @@ Rate Limiting (throttling) allows you to limit the number of requests a client c
 | Speed         | `knot`                            | `60.47518`
 | Voltage       | `milivolt`                        | `12436`
 
-#### Date 
+### Date 
 
 Date data will be returned using `YYYY-MM-DD` format (e.g: `2016-12-31`) using `UTC` timezone.
 
-#### Datetime
+### Datetime
 
 Datetime data will be returned using `YYYY-MM-DD H:i:s` format (e.g: `2016-12-31 14:31:21`) using `UTC` format.
 
-#### Distance
+### Distance
 
 Distance data will be returned in `metre`.
 
-#### Duration
+### Duration
 
 Duration data will be return in `seconds`.
 
-#### Ignition
+### Ignition
 
 Ignition value is either `true` when power is on, `false` when power is off and `null` if beacon is configured without ignition status.
 
-#### Odometer
+### Odometer
 
 Odometer value will be returned in `kilometre`.
 
-#### Score
+### Score
 
 Score value will be returned in `percentage`, between `0-100`. The higher the value, the better the score.
 
-#### Speed
+### Speed
 
 All speed data will be returned in `knot`.
 
-#### Voltage
+### Voltage
 
 Voltage data will be returned using `milivolt`.
 
