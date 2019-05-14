@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'KATSANA',
-  description: 'Developer Hub',
+  title: 'KATSANA Developer Hub',
+  description: 'Learn to Integrate with KATSANA API and SDK',
   themeConfig: {
     displayAllHeaders: true,
     logo: '/images/katsana.png',
