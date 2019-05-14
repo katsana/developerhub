@@ -1,14 +1,12 @@
 ---
 title: Getting Started
-actionText: Download
 ---
 
 # Getting Started
 
-KATSANA API allows everyone to build apps on the KATSANA Platform. Our API is organized around REST. JSON will be returned in all responses from the API, including errors.
+KATSANA API allows our users to build apps on top of the KATSANA Platform. Our API is organized around REST and JSON will be returned in all responses from the API, including errors.
 
 Let’s walk through core API concepts as we tackle some everyday use cases.
-
 
 [[toc]]
 

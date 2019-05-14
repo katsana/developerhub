@@ -22,7 +22,6 @@ Once generated, you're see a modal containing your access token.
 
 ![](/images/personal-access-token.png)
 
-<div class="warning custom-block" role="alert">
-    <h4>WARNING</h4>
-    <p>Please copy this information to your application and on no condition share this key to anyone else.</p>
-</div>
+::: warning
+Please copy this information to your application and on no condition share this key to anyone else.
+:::
