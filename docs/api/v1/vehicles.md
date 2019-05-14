@@ -19,7 +19,7 @@ List vehicle owned or viewable by the authenticated user.
 | Type          | Value                             | Required
 |:--------------|:----------------------------------|:---------
 | Accept        | `application/vnd.KATSANA.v1+json` | Yes
-| Authorization | `Bearer {access-token}`         | Yes
+| Authorization | `Bearer {access-token}`           | Yes
 
 ### Request
 
@@ -82,7 +82,7 @@ Show single vehicle owned or viewable by the authenticated user.
 | Type          | Value                             | Required
 |:--------------|:----------------------------------|:---------
 | Accept        | `application/vnd.KATSANA.v1+json` | Yes
-| Authorization | `Bearer {access-token}`         | Yes
+| Authorization | `Bearer {access-token}`           | Yes
 
 ### Request
 
@@ -142,7 +142,7 @@ Get current location for a vehicle.
 | Type          | Value                             | Required
 |:--------------|:----------------------------------|:---------
 | Accept        | `application/vnd.KATSANA.v1+json` | Yes
-| Authorization | `Bearer {access-token}`         | Yes
+| Authorization | `Bearer {access-token}`           | Yes
 
 ### Request
 

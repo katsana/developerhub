@@ -18,7 +18,7 @@ Developer should be able to view and update own profile using our API.
 | Type          | Value                             | Required
 |:--------------|:----------------------------------|:---------
 | Accept        | `application/vnd.KATSANA.v1+json` | Yes
-| Authorization | `Bearer {access-token}`         | Yes
+| Authorization | `Bearer {access-token}`           | Yes
 
 ### Request
 
@@ -78,7 +78,7 @@ curl --request GET \
 | Type          | Value                             | Required
 |:--------------|:----------------------------------|:---------
 | Accept        | `application/vnd.KATSANA.v1+json` | Yes
-| Authorization | `Bearer {access-token}`         | Yes
+| Authorization | `Bearer {access-token}`           | Yes
 
 ### Request
 
@@ -132,7 +132,7 @@ curl --request PATCH \
 | Type          | Value                             | Required
 |:--------------|:----------------------------------|:---------
 | Accept        | `application/vnd.KATSANA.v1+json` | Yes
-| Authorization | `Bearer {access-token}`         | Yes
+| Authorization | `Bearer {access-token}`           | Yes
 
 ### Request
 

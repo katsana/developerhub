@@ -13,7 +13,9 @@ module.exports = {
         'authentication',
         'information',
         'user-profile',
-        'vehicles'
+        'vehicles',
+        'vehicles/travels',
+        'vehicles/summaries'
       ]
     }
   }
