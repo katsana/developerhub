@@ -2,6 +2,10 @@ module.exports = {
   title: 'KATSANA Developer Hub',
   description: 'Learn to Integrate with KATSANA API and SDK',
   themeConfig: {
+    algolia: {
+      apiKey: '7Z0BZFVIID',
+      indexName: 'developerhub'
+    },
     displayAllHeaders: true,
     logo: '/images/katsana.png',
     nav: [
