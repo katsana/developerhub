@@ -3,8 +3,8 @@ module.exports = {
   description: 'Learn to Integrate with KATSANA API and SDK',
   themeConfig: {
     algolia: {
-      apiKey: '556d79aadd5a0114a6fdea907c36ad4b',
-      indexName: 'developerhub'
+      apiKey: '05d70257f12ebaf1570267209afb7b7a',
+      indexName: 'katsanalabs'
     },
     displayAllHeaders: true,
     logo: '/images/katsana.png',
